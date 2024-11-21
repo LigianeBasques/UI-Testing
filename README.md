@@ -65,14 +65,21 @@ O relatório de defeitos será compartilhado com todos os envolvidos em
 formato Excel e também ficará disponível o link no GitHub 
 
 ### 7- Gerencimanento de Defeitos ###
-**4.1 Prioridade**
+**7.1 Prioridade**
 
 ![Prioridade](https://imgur.com/YY71mqz.png)
 
 
-**4.2 Severidade**
+**7.2 Severidade**
 
 ![Seceridade](https://imgur.com/OWnN6DY.png)
+
+
+### 8- Recursos (Hardware/Software) ### 
+| Hardware  | Software |
+|----------|----------|
+| Dispositivos Desktop   | Windows 10  para desktops.  |
+
 
 
 
