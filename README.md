@@ -58,6 +58,16 @@ executados.</li>
 <li>Cada falha ou defeito encontrado será registrado com uma captura de 
 tela associada ao defeito identificado.</li>
 <li> Os defeitos  serão classificados de acordo com as prioridades e severidades definidas no 
-projeto. </li>
+plano de testes. </li>
+
+### 6- Relatório de Defeitos ### 
+O relatório de defeitos será compartilhado com todos os envolvidos em 
+formato Excel e também ficará disponível o link no GitHub 
+
+### 7- Gerencimanento de Defeitos ###
+**4.1 Prioridade**
+
+![Prioridade](https://imgur.com/YY71mqz.png)
+
 
 
