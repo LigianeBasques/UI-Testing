@@ -81,5 +81,14 @@ formato Excel e também ficará disponível o link no GitHub
 | Dispositivos Desktop   | Windows 10  para desktops.  |
 
 
+# 📝Mapa de cobertura📝 #
+Foi elaborado o mapa de cobertura para plataforma de e-commerce Sauce Demo, o qual representa a abrangência do testes que serão realizados no projeto. 
+
+## 📌Planilha com mapa de cobertura📌 ##
+Abaixo segue a planilha com o mapa de cobertura o qual foi mapeado as funcionalidade do sistema que serão testadas e o nível de cobertura desses testes.
+
+
+
+
 
 
