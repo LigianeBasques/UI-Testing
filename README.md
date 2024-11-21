@@ -45,4 +45,19 @@ A Sauce Demo é uma aplicação web fictícia de e-commerce. Ela simula cenário
 
 ![Tipos de Testes](https://imgur.com/G8p6MFg.png)
 
+### 5 - Estratégias de testes ### 
+<li> Os testes serão realizados com foco em cobertura funcional das telas 
+e navegabilidade, validando se todas as interfaces e páginas 
+interagem  </li>
+<li>A abordagem será funcional e de usabilidade, com base no mapa de cobertura gerado 
+na análise do processo de testes, validando a implementação e fluxo 
+das interfaces descritas no documento. </li>
+<li>As evidências dos testes serão coletadas por meio de imagens e 
+armazenadas no Google Drive conforme os cenários de teste 
+executados.</li>
+<li>Cada falha ou defeito encontrado será registrado com uma captura de 
+tela associada ao defeito identificado.</li>
+<li> Os defeitos  serão classificados de acordo com as prioridades e severidades definidas no 
+projeto. </li>
+
 
