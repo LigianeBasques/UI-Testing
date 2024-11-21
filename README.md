@@ -70,4 +70,9 @@ formato Excel e também ficará disponível o link no GitHub
 ![Prioridade](https://imgur.com/YY71mqz.png)
 
 
+**4.2 Severidade**
+
+![Seceridade](https://imgur.com/OWnN6DY.png)
+
+
 
