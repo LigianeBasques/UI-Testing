@@ -36,4 +36,8 @@ A Sauce Demo é uma aplicação web fictícia de e-commerce. Ela simula cenário
 |Navegação entre páginas   |   |
 |Logout  |   |
 
+### 3- Cronograma ### 
+
+![Cronograma](https://imgur.com/Bf5yNgG.png)
+
 
