@@ -26,3 +26,14 @@ ___
 ### 1-Visão Geral do Projeto ### 
 
 A Sauce Demo é uma aplicação web fictícia de e-commerce. Ela simula cenários reais de loja virtual, como login, navegação, carrinho e checkout.
+
+### 2- Declaração de Escopo ### 
+| O escopo de teste cobre | O escopo de teste não cobre|
+|----------|----------|
+| Login com diferentes tipos de usuários disponíveis     | Teste Unitários serão executados pela equipe de desenvolvimento |
+|Ordenação e filtragem de produtos  | Testes que fogem do escopo da demanda  |
+| Remoção de itens do carrinho    |  |
+|Navegação entre páginas   |   |
+|Logout  |   |
+
+
