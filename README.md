@@ -11,7 +11,7 @@ ___
 <p><b>Nome do Projeto</b>: Sauce Demo <p/>
 <p><b>Autor(a) da Documentação</b>: Ligiane Basques<p/>
 <p><b>Contato</b>: ligianealzie25@gmail.com<p/>
-<p><b>Data Início</b>: 21/11/2024 <b>Data Fim</b>: 21/11/2024 <p/>
+<p><b>Data Início</b>: 21/11/2024 <b>Data Fim</b>: 22/11/2024 <p/>
   
 ___
 
