@@ -24,3 +24,5 @@ ___
 |  |  |  |  |
 
 ### 1-Visão Geral do Projeto ### 
+
+A Sauce Demo é uma aplicação web fictícia de e-commerce. Ela simula cenários reais de loja virtual, como login, navegação, carrinho e checkout.
