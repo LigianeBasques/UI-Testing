@@ -92,7 +92,7 @@ Abaixo segue a planilha com o mapa de cobertura o qual foi mapeado as funcionali
 # ⚠️Mapa de risco⚠️ #
 Foi elaborado o mapa de risco para plataforma de e-commerce Sauce Demo, o qual avalia e prioriza riscos no Sauce Demo destacando suas probabilidades e impactos. Seu objetivo é facilitar a tomada de decisões e direcionar ações corretivas para áreas críticas.
 
-## 📌Planilha com mapa de cobertura📌 ##
+## 📌Planilha com mapa de risco📌 ##
 Abaixo segue a planilha com o mapa de risco o qual foi mapeado as funcionalidades do sistema que possuem mais vulnerabilidade. 
 
 <li> <a href="https://docs.google.com/spreadsheets/d/1-2bA3fBWhi5dH2-OyNnykfpRDMCkjNby4eYjS09m8A8/edit?usp=sharing" rel=nofollow>MAPA DE RISCO</a><//li>
