@@ -89,6 +89,8 @@ Abaixo segue a planilha com o mapa de cobertura o qual foi mapeado as funcionali
 
 <li> <a href="https://docs.google.com/spreadsheets/d/1ZiphIcookPwWGA1dLhf9TdA0ykQh3b3dJ4S_1XGLxdU/edit?usp=sharing" rel=nofollow>MAPA DE COBERTURA</a><//li>
 
+# ⚠️Mapa de risco⚠️ #
+
 
 
 
