@@ -84,15 +84,15 @@ formato Excel e também ficará disponível o link no GitHub
 # 📝Mapa de cobertura📝 #
 Foi elaborado o mapa de cobertura para plataforma de e-commerce Sauce Demo, o qual representa a abrangência do testes que serão realizados no projeto. 
 
-## 📌Planilha com mapa de cobertura📌 ##
+## Planilha com mapa de cobertura ##
 Abaixo segue a planilha com o mapa de cobertura o qual foi mapeado as funcionalidade do sistema que serão testadas e o nível de cobertura desses testes.
 
 <li> <a href="https://docs.google.com/spreadsheets/d/1ZiphIcookPwWGA1dLhf9TdA0ykQh3b3dJ4S_1XGLxdU/edit?usp=sharing" rel=nofollow>MAPA DE COBERTURA</a><//li>
 
 # ⚠️Mapa de risco⚠️ #
-Foi elaborado o mapa de risco para plataforma de e-commerce Sauce Demo, o qual avalia e prioriza riscos no Sauce Demo destacando suas probabilidades e impactos. Seu objetivo é facilitar a tomada de decisões e direcionar ações corretivas para áreas críticas.
+Foi elaborado o mapa de risco para plataforma de e-commerce Sauce Demo, o qual avalia e prioriza riscos e suas probabilidades e impactos. Seu objetivo é facilitar a tomada de decisões e direcionar ações corretivas para áreas críticas.
 
-## 📌Planilha com mapa de risco📌 ##
+## Planilha com mapa de risco ##
 Abaixo segue a planilha com o mapa de risco o qual foi mapeado as funcionalidades do sistema que possuem mais vulnerabilidade. 
 
 <li> <a href="https://docs.google.com/spreadsheets/d/1-2bA3fBWhi5dH2-OyNnykfpRDMCkjNby4eYjS09m8A8/edit?usp=sharing" rel=nofollow>MAPA DE RISCO</a><//li>
@@ -100,6 +100,6 @@ Abaixo segue a planilha com o mapa de risco o qual foi mapeado as funcionalidade
 # 🏷️Roteiro de testes🏷️ #
 Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, casos de testes, os passos, ações, dados de entrada, condições de teste, resultados esperados e pré-requisitos necessários para executar testes  do sistema.
 
-## 📌Planilha com roteiro de testes📌 ##
+## Planilha com roteiro de testes ##
 
 
