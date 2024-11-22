@@ -87,6 +87,8 @@ Foi elaborado o mapa de cobertura para plataforma de e-commerce Sauce Demo, o qu
 ## 📌Planilha com mapa de cobertura📌 ##
 Abaixo segue a planilha com o mapa de cobertura o qual foi mapeado as funcionalidade do sistema que serão testadas e o nível de cobertura desses testes.
 
+<li> <a href="https://docs.google.com/spreadsheets/d/1ZiphIcookPwWGA1dLhf9TdA0ykQh3b3dJ4S_1XGLxdU/edit?usp=sharing" rel=nofollow>MAPA DE COBERTURA</a><//li>
+
 
 
 
