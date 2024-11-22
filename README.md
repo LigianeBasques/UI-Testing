@@ -97,4 +97,9 @@ Abaixo segue a planilha com o mapa de risco o qual foi mapeado as funcionalidade
 
 <li> <a href="https://docs.google.com/spreadsheets/d/1-2bA3fBWhi5dH2-OyNnykfpRDMCkjNby4eYjS09m8A8/edit?usp=sharing" rel=nofollow>MAPA DE RISCO</a><//li>
 
+# 🏷️Roteiro de testes🏷️ #
+Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, casos de testes, os passos, ações, dados de entrada, condições de teste, resultados esperados e pré-requisitos necessários para executar testes  do sistema.
+
+## 📌Planilha com roteiro de testes📌 ##
+
 
