@@ -106,3 +106,19 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 **Através do relatório de bugs, você pode usar os filtros para gerenciar a quantidade, status, severidade e prioridade dos bugs. Foi aplicado nessa planilha filtros**
 <li> <a href="https://docs.google.com/spreadsheets/d/1DTmUYXzHShtqkni2SNJEd_hmfyJNmcDSLR02wjHlxC4/edit?usp=drive_link" rel=nofollow>RELATÓRIO DE BUGS</a><//li>
 
+
+## 🚀Sugestões de melhorias de UX/UI (ME)🚀 ## 
+| ID | Melhorias |
+| ------------- | ------------- |
+| ME-01 | Melhorar a experiência de login: Adicione uma dica (placeholder) nos campos de usuário e senha, informando valores de exemplo para facilitar a experiência do usuário
+| ME-02 | Página de erro personalizada: poderia crie mensagens de erro mais informativas e amigáveis (ex:"Usuário ou senha inválidos. Tente novamente").
+| ME-03 | Confirmação de ações: no processo de compras exiba mensagens claras de confirmação (ex: "Produto adicionado ao carrinho com sucesso!").
+| ME-04 | Poderia ter uma campo de pesquisa para os produtos e organizados por categoria.
+| ME-05 | Poderia ter um botão de favoritar produtos
+| ME-06 | Poderia ter um campo para feedbacks do usuário que compraram produtos, ex: campo para adicionar as estrelas e relatar a experiência com aquele produto
+| ME-07 | Poderia ter campos para escolha de tipos de pagamento: cartão, boleto ou pix
+| ME-08 | Texto alternativo: Adicionar descrições precisas a imagens e ícones.
+| ME-09 | Tipografia e botões uniformes: fontes consistentes para garantir tamanhos de botão uniformes para evitar distrações visuais.
+| ME-10 | Paleta de cores: Atualizar o esquema de cores para torná-lo mais moderno e engajador. Considerando os tons mais suaves para melhorar a experiência visual.
+
+
