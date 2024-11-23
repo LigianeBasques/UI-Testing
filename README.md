@@ -125,10 +125,10 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 
 
 ## 💻Testes de responsividade💻 ##
-<li>Ferramenta utilizada para o teste: **Responsive Viewe extensão do google chrome**r</li>
-<li>Navegador: **Google chrome: versão 131.0.6778.71**r</li>
-<li>Sistema operaciona:**Windows 10 desktop**r</li>
-<li>Sistema operaciona mobile:**Android 15*r</li>
+<li>Ferramenta utilizada para o teste: <b>Responsive Viewe extensão do google chrome</b></li>
+<li>Navegador: <b>Google chrome: versão 131.0.6778.71</b> </li>
+<li>Sistema operacional: <b>Windows 10 desktop</b></li>
+<li>Sistema operacional mobile: <b>Android 15</b> </li>
 
 ## Mobile ##
 
