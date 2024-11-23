@@ -128,9 +128,9 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 
 ## Mobile ##
 
-| ![Imagem 1](https://imgur.com/Y82zKL9.png/150) | ![Imagem 2](https://imgur.com/Y4CFuyY.gif/150) | ![Imagem 3](https://via.placeholder.com/150) | ![Imagem 4](https://via.placeholder.com/150) |
+| ![Imagem 1](https://imgur.com/Y82zKL9.png/150) | ![Imagem 2](https://imgur.com/Y4CFuyY.gif/150) | ![Imagem 3](https://imgur.com/yNWQcuY.gif/150) | ![Imagem 4](https://via.placeholder.com/150) |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| Tela de Login                    | Tela de produtos                    | Descrição da Imagem 3                       | Descrição da Imagem 4                       |
+| Tela de Login                    | Tela de produtos                    | Tela de checkout                      | Descrição da Imagem 4                       |
 
 
 
