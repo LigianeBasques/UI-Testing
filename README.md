@@ -101,4 +101,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 ## Planilha com roteiro de testes ##
 <li> <a href="https://docs.google.com/spreadsheets/d/1vGz83cxkfXRLcjjJrLvunO-IOrx_BmCfLZbAnggcCys/edit?usp=sharing" rel=nofollow>ROTEIRO DE TESTES</a><//li>
 
+## 🐞BUGS encontrados🐞 ##
+## Planilha com relatório de bugs ##
+<li> <a href="https://docs.google.com/spreadsheets/d/1DTmUYXzHShtqkni2SNJEd_hmfyJNmcDSLR02wjHlxC4/edit?usp=drive_link" rel=nofollow>RELATÓRIO DE BUGS</a><//li>
 
