@@ -129,6 +129,8 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 <li>Navegador: <b>Google chrome: versão 131.0.6778.71</b> </li>
 <li>Sistema operacional: <b>Windows 10 desktop</b></li>
 <li>Sistema operacional mobile: <b>Android 15</b> </li>
+<li>Resolução mobile: <b>393x852</b> </li>
+<li>Aparelho mobile: <b>Samsung A14</b> </li>
 
 ## Mobile ##
 
