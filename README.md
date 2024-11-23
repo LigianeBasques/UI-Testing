@@ -124,3 +124,6 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 | ME-12 | Poderia colocar um campo para que o usuário cancelasse um pedido após realizar o processo de compra
 
 
+## 💻Testes de responsividade💻 ##
+
+
