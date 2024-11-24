@@ -131,6 +131,8 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 <li>Sistema operacional mobile: <b>Android 15</b> </li>
 <li>Resolução mobile: <b>393x852</b> </li>
 <li>Aparelho mobile: <b>Samsung A14</b> </li>
+<li>Tablet: <b>Galaxy Tab S7 </b> </li>
+<li>Resolução Tablet: <b>526 x 842 </b> </li>
 
 ## Mobile ##
 
