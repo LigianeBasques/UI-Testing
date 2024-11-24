@@ -148,3 +148,6 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 | Fluxo de compra completo                       |
 
 
+## Desktop ##
+
+
