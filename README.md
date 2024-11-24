@@ -152,4 +152,8 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 
 ## Desktop ##
 
+| ![Imagem 1](https://imgur.com/fu9R5Td.gif/150) |
+|---------------------------------------------|
+| Fluxo de compra completo                       |
+
 
