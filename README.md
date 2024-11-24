@@ -157,3 +157,37 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 | Fluxo de compra completo                       |
 
 
+## ✔️Checklist de Responsividade para o site https://www.saucedemo.com/✔️ ##
+
+#### 1. Formulário de Login
+- [X] O formulário centraliza corretamente em diferentes tamanhos de tela.
+- [X] Os campos de entrada (usuário/senha) são legíveis e facilmente clicáveis.
+- [X] O botão de login está visível e funcional em todas as resoluções.
+- [X] O tamanho do texto é legível em dispositivos móveis.
+
+#### 2. Layout Geral
+- [X] O layout ajusta-se corretamente a diferentes tamanhos de tela (smartphones, tablets e desktops).
+- [X] Nenhum elemento ultrapassa os limites do viewport em resoluções menores.
+- [X] Não há necessidade de rolagem horizontal em dispositivos móveis.
+- [X] Os elementos permanecem organizados e proporcionais em resoluções maiores.
+
+#### 3. Experiência em Dispositivos Móveis
+- [X] O site é funcional e navegável em telas pequenas (320px e acima).
+- [X] Os elementos clicáveis têm tamanhos adequados para toque.
+- [X] O layout mantém boa proporção visual em modo retrato e paisagem.
+- [X] Não há problemas de sobreposição de elementos em dispositivos móveis.
+
+#### 4. Melhorias Potenciais
+- [ ] Os botões e links são otimizados para toque (tamanho mínimo: 48x48px).
+- [ ] O site possui menus adaptáveis (hambúrguer menu) em resoluções menores.
+- [ ] As margens e espaçamentos são ajustados corretamente para telas pequenas.
+- [ ] Elementos gráficos e imagens são otimizados para evitar carregamento desnecessário em dispositivos móveis.
+
+#### 5. Testes Gerais
+- [X] O site funciona bem em navegadores modernos (Chrome).
+- [ ] A rotação da tela (retrato/paisagem) não afeta negativamente o layout.
+- [X] A experiência de navegação é consistente em diferentes dispositivos.
+- [X] As fontes e tamanhos de texto permanecem legíveis em todas as resoluções.
+
+
+
