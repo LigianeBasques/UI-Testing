@@ -141,6 +141,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 | Tela de Login                    | Tela de produtos                    | Tela de checkout                      | Tela de finalização da compra                     |
 
 
+## Tablet ##
 
 
 
