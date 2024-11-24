@@ -143,7 +143,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 
 ## Tablet ##
 
-| ![Imagem 1](https://imgur.com/SOcTC27.gif/150) |
+| ![Imagem 1](https://imgur.com/bMqqS6T.gif/150) |
 |---------------------------------------------|
 | Fluxo de compra completo                       |
 
