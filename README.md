@@ -191,7 +191,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 - [X] A experiência de navegação é consistente em diferentes dispositivos.
 - [X] As fontes e tamanhos de texto permanecem legíveis em todas as resoluções.
 
-# Testes de acessibilidade #
+# ♿Testes de acessibilidade♿ #
 
 
 
