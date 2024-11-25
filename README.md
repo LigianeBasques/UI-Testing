@@ -200,6 +200,11 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 <li>Ferramenta de validação: DevTools axe-core 4.4.2</li>
 <li>Windows 10 e google chrome versão 131.0.6778.71 </li>
 
+## Planilha de testes visuais ##
+<li> <a href="https://docs.google.com/spreadsheets/d/1vGz83cxkfXRLcjjJrLvunO-IOrx_BmCfLZbAnggcCys/edit?usp=sharing" rel=nofollow>TESTES VISUAIS</a><//li>
+
+
+
 
 
 
