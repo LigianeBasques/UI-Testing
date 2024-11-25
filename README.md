@@ -193,5 +193,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 
 # ♿Testes de acessibilidade♿ #
 
+### Teste Visual ###
+É um teste que foca na análise de aspectos visuais da interface para garantir que o conteúdo seja perceptível e compreensível para todos os usuários, incluindo aqueles com deficiências visuais.
 
 
