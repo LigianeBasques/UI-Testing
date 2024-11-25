@@ -122,6 +122,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 | ME-10 | Paleta de cores: Atualizar o esquema de cores para torná-lo mais moderno e engajador. Considerando os tons mais suaves para melhorar a experiência visual.
 | ME-11 | Poderia colocar um campo para que o usuário selecionasse o tipo de envio, ex: sedex, PAC 
 | ME-12 | Poderia colocar um campo para que o usuário cancelasse um pedido após realizar o processo de compra
+| ME-13 | Poderia inserir tecnologia assistiva o Vlibras por exemplo.  
 
 
 ## 💻Testes de responsividade💻 ##
