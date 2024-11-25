@@ -133,7 +133,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 <li>Aparelho mobile: <b>Samsung A14</b> </li>
 <li>Tablet: <b>Galaxy Tab S7 </b> </li>
 <li>Resolução Tablet: <b>526 x 842 </b> </li>
-<li>Tablet: <b>Notebook Samsung Galaxy Book Go </b> </li>
+<li>Notebook: <b>Notebook Samsung Galaxy Book Go </b> </li>
 <li>Resolução Notebook: <b>Full HD 1920 x 1080 </b> </li>
 
 ## Mobile ##
