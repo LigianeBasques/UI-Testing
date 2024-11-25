@@ -197,7 +197,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 É um teste que foca na análise de aspectos visuais da interface para garantir que o conteúdo seja perceptível e compreensível para todos os usuários, incluindo aqueles com deficiências visuais.
 
 **Ferramentas utilizada**
-<li>Ferramenta de validação: DevTools axe-core 4.4.2</li>
+<li> Ferramenta de validação: DevTools axe-core 4.4.2</li>
 <li>Windows 10 e google chrome versão 131.0.6778.71 </li>
 <li>Documento de referência da WCAG 2.2: https://guia-wcag.com/</li>
 
