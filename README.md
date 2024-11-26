@@ -202,7 +202,7 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 <li>Documento de referência da WCAG 2.2: https://guia-wcag.com/</li>
 
 ## Planilha de testes visuais ##
-<li> <a href="https://docs.google.com/spreadsheets/d/1vGz83cxkfXRLcjjJrLvunO-IOrx_BmCfLZbAnggcCys/edit?usp=sharing" rel=nofollow>TESTES VISUAIS</a><//li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1ThYI2260IuZI2BziuXQdOKVmXg3CKpW6H0Zwiof7JdI/edit?usp=drive_link" rel=nofollow>TESTES VISUAIS</a><//li>
 
 
 
