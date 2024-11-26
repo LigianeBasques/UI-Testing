@@ -204,6 +204,39 @@ Foi elaborado o roteiro de testes, nesse roteiro é detalhado: os cenários, cas
 ## Planilha de testes visuais ##
 <li> <a href="https://docs.google.com/spreadsheets/d/1ThYI2260IuZI2BziuXQdOKVmXg3CKpW6H0Zwiof7JdI/edit?usp=drive_link" rel=nofollow>TESTES VISUAIS</a><//li>
 
+# 📌Sugestões de Automação para o Site Sauce Demo📌 #
+
+## 1. Automação de Login
+**Objetivo:** Testar os cenários de login com diferentes credenciais.
+- **Cenários de teste:**
+  - Login com credenciais válidas (ex: `standard_user/secret_sauce`).
+  - Login com credenciais inválidas (ex: usuário inexistente, senha errada).
+  - Login com o usuário bloqueado (usando `locked_out_user`).
+  - Verificar a resposta para tentativas de login sem preencher os campos de usuário/senha.
+
+## 2. Automação de Adição de Produtos ao Carrinho
+**Objetivo:** Validar o processo de adicionar produtos ao carrinho.
+- **Cenários de teste:**
+  - Adicionar um produto ao carrinho.
+  - Verificar a quantidade de itens no carrinho após adicionar.
+  - Testar a adição de múltiplos produtos.
+  - Remover um produto do carrinho.
+
+## 3. Automação de Compra (Checkout)
+**Objetivo:** Validar o fluxo de compra e checkout.
+- **Cenários de teste:**
+  - Passar pelo processo de checkout com sucesso.
+  - Testar o fluxo de checkout com dados inválidos (ex: campo de nome vazio, endereço inválido).
+  - Validar os preços totais e descontos (se aplicáveis).
+  - Verificar a exibição de resumo de compra.
+
+## 4. Automação de Filtros e Ordenação de Produtos
+**Objetivo:** Verificar a funcionalidade de filtros e ordenação de produtos.
+- **Cenários de teste:**
+  - Aplicar filtros de produtos por preço, categoria ou popularidade.
+  - Verificar a ordenação de produtos por preço crescente e decrescente.
+  - Validar se a lista de produtos se atualiza corretamente após aplicar filtros/ordenação.
+
 
 
 
